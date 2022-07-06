@@ -2,6 +2,7 @@
 ## Mobile (iPhone 12)
 <div align="center">
   <img src="https://user-images.githubusercontent.com/83923018/177606851-6c556f4a-125c-42eb-bcd6-f076c949fbd0.png" width="30%">
+  </div>
 
 ## Tablet (iPad Mini
 <div align="center">
