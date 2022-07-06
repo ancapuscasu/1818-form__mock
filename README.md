@@ -1,15 +1,14 @@
 # ScreenShots
 ## Mobile (iPhone 12)
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/83923018/177604962-09b508e5-7bbf-4b7b-b3a5-7dc033b8cd29.png" width="30%">
-</div>
+  <img src="https://user-images.githubusercontent.com/83923018/177606851-6c556f4a-125c-42eb-bcd6-f076c949fbd0.png" width="30%">
 
 ## Tablet (iPad Mini
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/83923018/177605089-38f8d213-96c1-48d7-9a86-59c8b2809486.png" width="50%">
+  <img src="https://user-images.githubusercontent.com/83923018/177607161-23af0ba4-5b0c-425c-a3c7-bdca833e5362.png" width="50%">
 </div>
 
 ## Desktop (MacBook Air)
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/83923018/177605104-1beca74d-4567-456f-80ba-92503c57ceb1.png" >
+  <img src="https://user-images.githubusercontent.com/83923018/177607180-86cca7dd-e84c-4a64-8443-1823412b945a.png" >
 </div>
